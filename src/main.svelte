@@ -6,7 +6,7 @@
 
   let activeTabName = ''
 
-  setCell('tab1', 0, 0, { value: '' })
+  setCell('tab1', 0, 0, { value: 'hmm...' })
   setCell('tab1', 0, 1, { value: '' })
   setCell('tab1', 0, 2, { value: '' })
   setCell('tab1', 0, 3, { value: '' })
